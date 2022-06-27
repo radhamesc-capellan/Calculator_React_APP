@@ -1,5 +1,5 @@
 
-#Calculator React
+# Calculator React
 
 A simple calculator to practice the useState, useEffect, useRef Hooks, in addition to the use of dark mode
 
