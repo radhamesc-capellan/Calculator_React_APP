@@ -1,3 +1,9 @@
+
+#Calculator React
+
+A simple calculator to practice the useState, useEffect, useRef Hooks, in addition to the use of dark mode
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
